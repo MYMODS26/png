@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "DEUS É FIEL🙌🙏💥🤍",
-      "code": 999,
+      "code": 99,
       "url": "https://bit.ly/DELTAv60B5",
       "changelog": "MywhasApp Oficial V10
 
