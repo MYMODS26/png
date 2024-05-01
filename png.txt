@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "version": "DEUS É FIEL🙌🙏💥🤍",
+      "code": 10,
+      "url": "https://bit.ly/DELTAv60B5",
+      "changelog": "MywhasApp Oficial V10
+
+      Base: 2.24.2.76
+
+      〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+      Novo sistema de atualização 
+
+      Atualização AntiBan disponível"
+    }
+  ]
+}
