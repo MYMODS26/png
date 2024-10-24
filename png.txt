@@ -2,11 +2,11 @@
   "records": [
     {
       "version": "DEUS É FIEL🙌🙏💥🤍",
-      "code": 1011,
-      "url": "http://api.whatsapp.com/send?phone=+55759230-1485",
-      "changelog": "MywhasApp Oficial V10.10F
+      "code": 1016,
+      "url": "https://api.whatsapp.com/send?phone=557588432813",
+      "changelog": "MywhasApp Oficial V10.15
 
-      Base: 2.24.13.77
+      Base: 2.24.21.72
 
       〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
