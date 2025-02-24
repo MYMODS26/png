@@ -2,17 +2,17 @@
   "records": [
     {
       "version": "DEUS É FIEL🙌🙏💥🤍",
-      "code": 1011,
-      "url": "http://api.whatsapp.com/send?phone=+55759230-1485",
-      "changelog": "MywhasApp Oficial V10.10F
+      "code": 1021,
+      "url": "https://wa.me/5575988852791?text=Quero_Compra_Um_Mod",
+      "changelog": "MywhasApp Oficial V10.21
 
-      Base: 2.24.13.77
+      Base: 2.25.3.9
 
       〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
       Novo sistema de atualização 
 
-      Atualização AntiBan disponível"
+      Olá esse é um pedido de atualização.  Não desinstale venha adquirir um WhatsApp com nosco e só estalar por cima . Com um valor super em conta e se clicar e chamar 🫶🏻🥰"
     }
   ]
 }
