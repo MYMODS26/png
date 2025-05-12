@@ -1,18 +1,19 @@
 {
   "records": [
     {
-      "version": "DEUS É FIEL🙌🙏💥🤍",
+      "version": "OLA HOJEE DIA DO PAGAMENTO💰",
       "code": 1021,
-      "url": "https://wa.me/5575988852791?text=Quero_Compra_Um_Mod",
-      "changelog": "MywhasApp Oficial V10.21
+      "url": "https://picpay.me/maycon.cerqueira.jesus/13.5",
+      "changelog": "DEUS E FIEL
 
-      Base: 2.25.3.9
+      EQUIPE MYMODS 2025
 
       〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-      Novo sistema de atualização 
+      Novo sistema de cobrança
 
-      Olá esse é um pedido de atualização.  Não desinstale venha adquirir um WhatsApp com nosco e só estalar por cima . Com um valor super em conta e se clicar e chamar 🫶🏻🥰"
+      Olá Pessoal, passando para lembrar que seu pagamento Referente ao my privado e hoje 20/05 no valor de 13'50  Por gentileza  efetue o pagamento e envie o comprovante para Maycom ou bela e mantenha seu pagamento em dia para  continuar participando do grupo e recendo as atualizações gratuitamente. O não pagamento resultará em remoção imediata.
+ ASS: EQUIPE MY MODS"
     }
   ]
 }
