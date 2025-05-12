@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "version": "OLA HOJEE DIA DO PAGAMENTO💰",
+      "version": "OLA HOJE E DIA DO PAGAMENTO💰",
       "code": 1021,
       "url": "https://picpay.me/maycon.cerqueira.jesus/13.5",
       "changelog": "DEUS E FIEL
