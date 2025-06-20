@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "OLA HOJE E DIA DO PAGAMENTO💰",
-      "code": 1022,
+      "code": 1021,
       "url": "https://www.mymods.org/p/pix.html",
       "changelog": "DEUS E FIEL
 
